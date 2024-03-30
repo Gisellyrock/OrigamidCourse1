@@ -58,10 +58,10 @@ p {
   justify-items: end;
 }
 
-.detalhe{
+.detalhe {
   width: 60px;
   height: 4px;
-  color: #e21;
+  background: #e21;
   position: absolute;
   top: 30px;
   right: -30px;
